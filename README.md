@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://github.com/DarioJejer/DarioJejer/blob/master/assest/banner.jpg"/>
+<img src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/banner.png"/>
 
 <!--
 **DarioJejer/DarioJejer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
