@@ -1,4 +1,6 @@
-<img margin="auto" display="block" border-radius="30px 80px 80px 50px" src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/banner.gif"/>
+<p align="center">
+    <img border-radius="30px 80px 80px 50px" src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/banner.gif"/>
+</p>
 
 <!--
 **DarioJejer/DarioJejer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
