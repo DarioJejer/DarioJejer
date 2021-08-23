@@ -25,7 +25,7 @@ const Dario = {
     </a>
 </p>
 
-#### Henry Pokemon-TI
+#### Henry-TI Pokemon
 
   - Proyect presented for 
 <p align='center'>     
