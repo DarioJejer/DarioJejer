@@ -18,7 +18,7 @@ const Dario = {
 
 #### Wipit Board
 
-  - Proyect presented for 
+  -  This is an ongoing group internship project for Wipit company. Wipit is a platform that connect developers of different seniorities looking to help each other to overcome problems. You can post your assignment for help and a colleague can join on a pair programming session. 
 <p align='center'>     
    <a align='center' href="https://henry-comics.vercel.app/">
 <!--       <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">   -->
@@ -27,7 +27,7 @@ const Dario = {
 
 #### Henry-TI Pokemon
 
-  - Proyect presented for 
+  - Final project done individually for Henry bootcamp, developed using PERN stack and deployed on Heroku.
 <p align='center'>     
    <a align='center' href="https://henty-pi-pokemon.vercel.app">
       <img src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/Henry-TI-Pokemon.png" alt="Henry TI Pokemon"   width="50%">  
@@ -36,7 +36,7 @@ const Dario = {
 
 #### Do Smart
 
-  - An interactive task manager app with multiple functionalities on an minimalist design, implemented with authentication and protected 
+  - An interactive task manager app with multiple functionalities on an minimalist design, implemented with authentication and deployed to azure.
 <p align='center'>     
    <a align='center' href="https://dosmart.website/">
       <img src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/DoSmart.png" alt="DoSmart"   width="50%">  
