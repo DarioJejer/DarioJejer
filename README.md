@@ -30,7 +30,7 @@ const Dario = {
   - Proyect presented for 
 <p align='center'>     
    <a align='center' href="https://henty-pi-pokemon.vercel.app">
-<!--       <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">   -->
+      <img src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/Henry-TI-Pokemon.png" alt="Henry TI Pokemon"   width="50%">  
     </a>
 </p>
 
