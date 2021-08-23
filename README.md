@@ -2,6 +2,71 @@
     <img border-radius="30px 80px 80px 50px" src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/banner.gif"/>
 </p>
 
+### I'm a Full Stack Web Developer!
+
+```javascript
+const Dario = {
+  languages: [Javascript, C#, Html, Css],
+  tools: [React, Redux, Node, .Net, Express],
+  learning: [socket.io, Docker]
+}
+```
+
+  ******
+### - :computer: My projects
+
+
+#### Wipit Board
+
+  - Proyect presented for 
+<p align='center'>     
+   <a align='center' href="https://henry-comics.vercel.app/">
+      <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">  
+    </a>
+</p>
+
+#### Henry Pokemon-TI
+
+  - Proyect presented for 
+<p align='center'>     
+   <a align='center' href="https://henty-pi-pokemon.vercel.app">
+      <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">  
+    </a>
+</p>
+
+#### Do Smart
+
+  - An interactive task manager app with multiple functionalities on an minimalist design, implemented with authentication and protected 
+<p align='center'>     
+   <a align='center' href="https://henry-comics.vercel.app/">
+      <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">  
+    </a>
+</p>
+
+#### Jam Central
+
+  - Jam Central is a web-app develop as a concept proyect: a social network for musicians and aficionados of music to share concert events. Entirely develop withtin two weeks on .Net framework using vanilla JS and CSS on the front-end.
+
+<p align='center'>     
+   <a align='center' href="https://usla-market.web.app/">
+      <img src="https://user-images.githubusercontent.com/67916064/109821155-75a6fc00-7c14-11eb-9156-0b27ed7d9a80.png" alt="Henry Comics Repo"   width="50%">  
+    </a>
+</p>
+
+  
+******
+### - 📫 Reach me at: ...
+   <p>
+      <a href="https://www.linkedin.com/in/dariojejer">
+         <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Dario Jejer LinkedIn Profile" height="30" width="30">
+      </a>   
+      <a align='right' href="dariojejer@gmail.com">
+         <img alt="Email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" height="30" width="30"/>
+      </a>  
+   </p>
+   <p><label>dariojejer@gmail.com</label></p>
+   
+   
 <!--
 **DarioJejer/DarioJejer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
