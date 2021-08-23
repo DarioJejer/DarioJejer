@@ -21,7 +21,7 @@ const Dario = {
   - Proyect presented for 
 <p align='center'>     
    <a align='center' href="https://henry-comics.vercel.app/">
-      <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">  
+<!--       <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">   -->
     </a>
 </p>
 
@@ -30,7 +30,7 @@ const Dario = {
   - Proyect presented for 
 <p align='center'>     
    <a align='center' href="https://henty-pi-pokemon.vercel.app">
-      <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">  
+<!--       <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">   -->
     </a>
 </p>
 
@@ -39,7 +39,7 @@ const Dario = {
   - An interactive task manager app with multiple functionalities on an minimalist design, implemented with authentication and protected 
 <p align='center'>     
    <a align='center' href="https://henry-comics.vercel.app/">
-      <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">  
+<!--       <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">   -->
     </a>
 </p>
 
@@ -49,7 +49,7 @@ const Dario = {
 
 <p align='center'>     
    <a align='center' href="https://usla-market.web.app/">
-      <img src="https://user-images.githubusercontent.com/67916064/109821155-75a6fc00-7c14-11eb-9156-0b27ed7d9a80.png" alt="Henry Comics Repo"   width="50%">  
+<!--       <img src="https://user-images.githubusercontent.com/67916064/109821155-75a6fc00-7c14-11eb-9156-0b27ed7d9a80.png" alt="Henry Comics Repo"   width="50%">   -->
     </a>
 </p>
 
