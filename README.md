@@ -48,8 +48,8 @@ const Dario = {
   - Jam Central is a web-app develop as a concept proyect: a social network for musicians and aficionados of music to share concert events. Entirely develop withtin two weeks on .Net framework using vanilla JS and CSS on the front-end.
 
 <p align='center'>     
-   <a align='center' href="https://usla-market.web.app/">
-<!--       <img src="https://user-images.githubusercontent.com/67916064/109821155-75a6fc00-7c14-11eb-9156-0b27ed7d9a80.png" alt="Henry Comics Repo"   width="50%">   -->
+   <a align='center' href="https://github.com/DarioJejer/JamCentral">
+      <img src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/JamCentral.jpg" alt="JamCentral" width="50%">  
     </a>
 </p>
 
