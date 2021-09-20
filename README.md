@@ -27,12 +27,25 @@ const Dario = {
 
 #### Henry-TI Pokemon
 
-  - Final project done individually for Henry bootcamp, developed using PERN stack and deployed on Heroku.
+  - Individual project develop in July 2021 as the PI for soyHenry Bootcamp, made from scratch within 2 weeks was my first implementation using PERN stack.
+ 
+  - It consisted of a Pokemon-themed web page, for the backend I use Node.js and ExpressJS for the server, the database was made in PostgreSQL and Sequelize as the ORM, the frontend is implemented with React and Redux, and the styles were made with vanilla CSS, some data was extracted from the API 'Pokeapi' to fill the database for the app and you can add your creations too.
+
 <p align='center'>     
-   <a align='center' href="https://henty-pi-pokemon.vercel.app">
-      <img src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/Henry-TI-Pokemon.png" alt="Henry TI Pokemon"   width="50%">  
-    </a>
+   <a align='center' href="https://youtu.be/9X-DPDHlfSs" target="_blank">
+      <img src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/Henry-TI-Pokemon.png" alt="Henry TI Pokemon Video"   width="50%">  
+   </a>  
 </p>
+
+<p align='center'>     
+   <a href="https://henty-pi-pokemon.vercel.app" target="blank">
+      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Henry TI Pokemon Link" height="30" width="40"/>
+   </a>   
+   <a href="https://github.com/DarioJejer/PI-Pokemon-FT14a" target="blank">
+      <img align="center" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="Henry TI Pokemon Repo" height="30" width="40"/>
+   </a>
+</p>
+
 
 #### Do Smart
 
