@@ -18,7 +18,11 @@ const Dario = {
 
 #### Wipit Board
 
-  -  This is an ongoing group internship project for Wipit company. Wipit is a platform that connect developers of different seniorities looking to help each other to overcome problems. You can post your assignment for help and a colleague can join on a pair programming session. 
+  -  Project developed as a group internship for the Wipit company. Wipit is a platform that connect developers of different seniorities looking to help each other to overcome problems. You can post your assignment for help and a colleague can join on a pair programming session. 
+  -  Working in a team using SCRUM, I took part as a co-leader and Full-Stack developer.
+  -  I led the development of the models for the application and managed the version control of the code.
+  -  Took 
+  -  Help with the implementation of authentication and JWT.
 <p align='center'>     
    <a align='center' href="https://henry-comics.vercel.app/">
 <!--       <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">   -->
@@ -27,7 +31,7 @@ const Dario = {
 
 #### Henry-TI Pokemon
 
-  - Individual project develop in July 2021 as the PI for soyHenry Bootcamp, made from scratch within 2 weeks was my first implementation using PERN stack.
+  - Individual project developed in July 2021 as the PI for soyHenry Bootcamp, made from scratch within 2 weeks was my first implementation using PERN stack.
  
   - It consisted of a Pokemon-themed web page, for the backend I use Node.js and ExpressJS for the server, the database was made in PostgreSQL and Sequelize as the ORM, the frontend is implemented with React and Redux, and the styles were made with vanilla CSS, some data was extracted from the API 'Pokeapi' to fill the database for the app and you can add your creations too. Deployed to vercel for the live demo.
 
@@ -49,7 +53,7 @@ const Dario = {
 
 #### Do Smart
 
-  - An interactive task manager app with multiple functionalities on an minimalist design. Develop from scratch within a week utilizing .Net framework.
+  - An interactive task manager app with multiple functionalities on an minimalist design. Developed from scratch within a week utilizing .Net framework.
   - Using ASP MVC for the back-end (controller-action pattern), Razor on the front-end (plain views) using vanilla JS for DOM manipulations and plain CSS, and Entity as the ORM (laying down migrations for easy deployment) connected to a SQLServer database. 
   - Implemented with authentication and deployed as a WebApp on azure.
 <p align='center'>     
@@ -68,7 +72,7 @@ const Dario = {
 
 #### Jam Central
 
-  - Jam Central is a web-app develop as a concept proyect: a social network for musicians and aficionados of music to share concert events. Develop following a .Net course within two weeks.
+  - Jam Central is a web-app developed as a social network for musicians and aficionados of music to share concert events. Develop following a .Net course within two weeks.
   - Using ASP MVC for the back-end, vanilla JS and CSS on the front-end, Entity as the ORM connected to a SQLServer database. Develop with a full suite of unit-tests and intergration-tests using Ninject. Deployed 
 
 <p align='center'>     
