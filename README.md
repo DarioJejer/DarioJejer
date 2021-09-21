@@ -21,11 +21,11 @@ const Dario = {
   -  Project developed as a group internship for the Wipit company on August 2021. Wipit is a platform that connect developers of different seniorities looking to help each other to overcome problems. You can post your assignment for help and a colleague can join on a pair programming session. 
   -  Working in a team using SCRUM, I took part as a co-leader and Full-Stack developer.
   -  I led the development of the models for the application and managed the version control of the code.
-  -  Implemented live notifications using socket.io and layed down the style of the page using Chakra UI.
-  -  Help with the integration of authentication and JWT.
+  -  Implemented live notifications using socket.io and laid down the style of the page using Chakra UI.
+  -  Helped with the integration of authentication and JWT.
 
 <p align='center'>     
-   <a align='center' href="https://henry-comics.vercel.app/">
+   <a align='center' href="http://www.wipitboard.com/">
       <img src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/Wipit.png" alt="Wipit Repo" width="50%">  
     </a>
 </p>
@@ -80,6 +80,15 @@ const Dario = {
    <a align='center' href="https://github.com/DarioJejer/JamCentral">
       <img src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/JamCentral.jpg" alt="JamCentral" width="50%">  
     </a>
+</p>
+
+<p align='center'>   
+<!--    <a href="https://dosmart.website" target="blank">
+      <img align="center" src="https://github.com/DarioJejer/DoSmart/blob/main/DoSmart/favicon.ico" alt="DoSmart Link" height="30" width="30"/>
+   </a> -->
+   <a href="https://github.com/DarioJejer/JamCentral" target="blank">
+      <img align="center" src="https://icongr.am/devicon/github-original.svg?size=128&color=currentColor" alt="JamCentral Repo" height="30" width="40"/>
+   </a>
 </p>
 
   
