@@ -77,7 +77,7 @@ const Dario = {
   - Using ASP MVC for the back-end, vanilla JS and CSS on the front-end, Entity as the ORM connected to a SQLServer database. Develop with a full suite of unit-tests and intergration-tests using Ninject. Deployed by myself on Azure alongside database.
 
 <p align='center'>     
-   <a align='center' href="https://github.com/DarioJejer/JamCentral">
+   <a align='center' href="https://youtu.be/grROKtFGmRI">
       <img src="https://github.com/DarioJejer/DarioJejer/blob/main/assets/JamCentral.jpg" alt="JamCentral" width="50%">  
     </a>
 </p>
