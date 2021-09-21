@@ -18,11 +18,12 @@ const Dario = {
 
 #### Wipit Board
 
-  -  Project developed as a group internship for the Wipit company. Wipit is a platform that connect developers of different seniorities looking to help each other to overcome problems. You can post your assignment for help and a colleague can join on a pair programming session. 
+  -  Project developed as a group internship for the Wipit company on August 2021. Wipit is a platform that connect developers of different seniorities looking to help each other to overcome problems. You can post your assignment for help and a colleague can join on a pair programming session. 
   -  Working in a team using SCRUM, I took part as a co-leader and Full-Stack developer.
   -  I led the development of the models for the application and managed the version control of the code.
-  -  Took 
-  -  Help with the implementation of authentication and JWT.
+  -  Implemented live notifications using socket.io and layed down the style of the page using Chakra UI.
+  -  Help with the integration of authentication and JWT.
+
 <p align='center'>     
    <a align='center' href="https://henry-comics.vercel.app/">
 <!--       <img src="https://user-images.githubusercontent.com/67916064/99194199-c45f8180-275c-11eb-8cc0-d509b16762e4.png" alt="Henry Comics Repo"   width="50%">   -->
@@ -72,8 +73,8 @@ const Dario = {
 
 #### Jam Central
 
-  - Jam Central is a web-app developed as a social network for musicians and aficionados of music to share concert events. Develop following a .Net course within two weeks.
-  - Using ASP MVC for the back-end, vanilla JS and CSS on the front-end, Entity as the ORM connected to a SQLServer database. Develop with a full suite of unit-tests and intergration-tests using Ninject. Deployed 
+  - Jam Central is a web-app developed as a social network for musicians and aficionados of music to share concert events. Develop following a .Net course within three weeks.
+  - Using ASP MVC for the back-end, vanilla JS and CSS on the front-end, Entity as the ORM connected to a SQLServer database. Develop with a full suite of unit-tests and intergration-tests using Ninject. Deployed by myself on Azure alongside database.
 
 <p align='center'>     
    <a align='center' href="https://github.com/DarioJejer/JamCentral">
