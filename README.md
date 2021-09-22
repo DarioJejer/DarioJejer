@@ -7,9 +7,11 @@
 ```javascript
 const Dario = {
   languages: [Javascript, C#, Html, Css],
-  front-end: [React, Redux, Chakra UI],
-  back-end: [Node, Express, Sequelize, .Net, Entity],
-  tools: [socket.io],
+  tools: {
+    front-end: [React, Redux, Chakra UI],
+    back-end: [Node, Express, Sequelize, .Net, Entity],
+    others: [socket.io]
+  },  
   learning: [Docker]
 }
 ```
