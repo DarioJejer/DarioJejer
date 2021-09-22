@@ -24,7 +24,7 @@ const Dario = {
 
   -  Project developed as a group internship for the Wipit company on August 2021. Wipit is a platform that connect developers of different seniorities looking to help each other to overcome problems. You can post your assignment for help and a colleague can join on a pair programming session. 
   -  Working in a team using SCRUM, I took part as a co-leader and Full-Stack developer.
-  -  I led the development of the models for the application and managed the version control of the code.
+  -  Led the development of the models for the application and supervised the version control of the code.
   -  Implemented live notifications using socket.io and laid down the style of the page using Chakra UI.
   -  Helped with the integration of authentication and JWT.
 
